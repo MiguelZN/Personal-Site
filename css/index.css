@@ -46,8 +46,12 @@ html {
   font-weight: bold;
 }
 
+#contacts {
+  font-weight: bold;
+}
+
 #introduction {
-  text-align: center;
+  display: inline;
 }
 
 #experience {
